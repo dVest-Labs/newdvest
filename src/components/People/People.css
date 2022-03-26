@@ -1,0 +1,19 @@
+.peoples{
+    background-image: url("../../images/last.png") ;
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+    width: 100%;
+    height: 220vh;
+    background-color: #19025B;
+   
+    
+}
+
+.imgBox{
+    margin-top: 30px;
+}
+
+.images{
+    width: 200px;
+}

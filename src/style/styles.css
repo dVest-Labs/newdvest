@@ -1,0 +1,32 @@
+.button-item{
+    margin-left: 100px;
+    border-radius: 10px;
+    border: 1px solid white ;
+    padding: 5px 25px;
+    background-color:slateblue;
+    color: white;
+  }
+
+  /* .text{
+    font-weight: 
+  } */
+
+  .button-itema{
+    border: 1px solid white ;
+  }
+  .logo{
+    width: 10rem;
+    margin-top: 4px;
+  }
+
+  .header-text{
+    color:white;
+  }
+
+  .header-group{
+    margin-top: 80px;
+  }
+
+  .header-paper{
+    margin-top: 20px;
+  }

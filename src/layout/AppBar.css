@@ -1,0 +1,38 @@
+header{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 80px;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    z-index: 1000;
+}
+
+.logo{
+    width: 20%;
+    
+}
+
+header .navigation{
+    position: relative;
+    display: flex;
+    margin-right: 200px;
+   
+}
+
+header .navigation li{
+    list-style: none;
+}
+
+header .navigation li .btn{
+    display: inline-block;
+    color: white;
+    font-weight: 500;
+    margin-left: 30px;
+    padding: 7px 20px;
+    border: solid 1px white;
+    border-radius: 40px;
+    text-decoration: none;
+}
